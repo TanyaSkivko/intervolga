@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "buyer": "BMW",
+    "description": "Лучшая машина"
+  },
+  {
+    "id": 2,
+    "buyer": "Volvo",
+    "description": "Рад покупке"
+  },
+  {
+    "id": 3,
+    "buyer": "Volkswagen",
+    "description": "Volkswagen Машина моей мечты,"
+  },
+  {
+    "id": 4,
+    "buyer": "Toyota",
+    "description": "Машина мечты"
+  }
+]

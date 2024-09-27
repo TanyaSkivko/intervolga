@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Иван",
+    "surname": "Петров",
+    "patronymic": "Лаврентьевич",
+    "buyer": "BMW"
+  },
+  {
+    "id": 2,
+    "name": "Матвей",
+    "surname": "Савицкий",
+    "patronymic": "Сергеевич",
+    "buyer": "Volvo"
+  },
+  {
+    "id": 3,
+    "name": "Сергей",
+    "surname": "Соломеин",
+    "patronymic": "Олегович",
+    "buyer": "Volkswagen"
+  },
+  {
+    "id": 4,
+    "name": "Тимофей",
+    "surname": "Ворошнина",
+    "patronymic": "Петровна",
+    "buyer": "Toyota"
+  }
+]
